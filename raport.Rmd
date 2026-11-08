@@ -426,7 +426,8 @@ print(zad3)
 
 
 ```{r 36, eval=FALSE}
-# miejsce na kod
+zad4 <- source("./R/zad4.R")
+print(zad4)
 ```
 
 
@@ -461,7 +462,8 @@ dane %>%
 
 
 ```{r 39, eval=FALSE}
-# miejsce na kod
+zad5 <- source("./R/zad5.R")
+print(zad5)
 ```
 
 
