@@ -417,7 +417,8 @@ print(zad2)
 
 
 ```{r 35, eval=FALSE}
-# miejsce na kod
+zad3 <- source("./R/zad3.R")
+print(zad3)
 ```
 
 
